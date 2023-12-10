@@ -1,0 +1,3 @@
+INORDER = a b c d;
+OUTORDER = output;
+output = (!a*!b*!c*!d)+(!a*b*!c*d)+(!a*b*c*!d)+(a*!b*!c*d)+(a*!b*c*!d)+(a*b*!c*d)+(a*b*c*!d)+(a*b*c*d)+(!a*b*c*d)
