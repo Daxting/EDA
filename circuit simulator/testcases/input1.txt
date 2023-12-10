@@ -1,0 +1,12 @@
+stage 2
+
+v1 vdd gnd 5V
+
+RS1_1	vdd	ns1_1	2K
+RS1_2	ns1_1	n1	2K
+RP1_1	n1	gnd	2K
+RS2_1	n1	n2	2K
+RP2_1	n2	np2_1	3K
+RP2_2	np2_1	gnd	3K
+
+end

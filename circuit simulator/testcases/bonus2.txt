@@ -1,0 +1,3 @@
+***Thevenin equivalence circuit***
+Rth = 6.000K
+Vth = 6.000v

@@ -1,0 +1,21 @@
+stage 5
+
+v1 vdd gnd 5V
+
+RS1_1	vdd	n1	5K
+RP1_1	n1	np1_1	5K
+RP1_2	np1_1	gnd	5K
+RS2_1	n1	n2	2K
+RP2_1	n2	np2_1	8K
+RP2_2	np2_1	gnd	8K
+RS3_1	n2	n3	8K
+RP3_1	n3	np3_1	8K
+RP3_2	np3_1	gnd	8K
+RS4_1	n3	n4	12K
+RP4_1	n4	np4_1	4K
+RP4_2	np4_1	gnd	4K
+RS5_1	n4	n5	4K
+RP5_1	n5	np5_1	2K
+RP5_2	np5_1	gnd	2K
+
+end
