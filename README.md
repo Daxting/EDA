@@ -11,7 +11,7 @@ Fig. 1 Working Flow of the Program
 
 In Fig. 1, The working flow starts with  deriving  unminimized  Sum  of Products  (SOP)  expressions  from  a state  table.  Using  the  Quine- McCluskey  and  Petrick  methods, these expressions are minimized, then converted  into  efficient  gate-level logic. 
 
-3. **The Quine-McCluskey and Petrick Method** 
+3. **The Quine-McCluskey and Petrick Method** 
 
 The  Quine-McCluskey  method uses  a  tabular  approach  to  find minimized  expressions,  while  the Petrick method identifies all minimal solutions.  They  excel  in  handling unlimited logic variables, simplifying complex designs effectively. 
 
