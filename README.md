@@ -2,7 +2,7 @@
 
 The project seeks to transform the provided state diagram into the most optimized  logic  gate  representation, showcasing advanced capabilities in automated synthesis within front-end electronic design automation (EDA). 
 
-2. **Working Flow  **
+2. **Working Flow**
   
 ![image](https://github.com/user-attachments/assets/3f8b451c-97ac-4ab2-90cf-d0b65a8ebe5b)
 
@@ -23,7 +23,6 @@ Fig. 2 Quine-McCluskey and Petrick Method Example for Boolean
 Function Simplification 
 
 ![image](https://github.com/user-attachments/assets/a54df8a5-accc-42c7-b82f-480a07011553)
-
 
 
 Fig. 3 Input and Output Example 
